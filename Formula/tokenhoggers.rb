@@ -4,7 +4,7 @@ class Tokenhoggers < Formula
   desc "Track your AI usage across Claude Code, Cursor, Gemini, and more"
   homepage "https://tokenhoggers.ai"
   url "https://files.pythonhosted.org/packages/source/t/tokenhoggers/tokenhoggers-0.1.1.tar.gz"
-  sha256 "REPLACE_AFTER_PYPI_UPLOAD"
+  sha256 "a636658750949d97ca9369f1ba29d6dfca125e31cb081730261457d8bd762d42"
   license "MIT"
 
   depends_on "python@3.12"
